@@ -1,4 +1,3 @@
-# senior-project-2023
 
       Students often struggle to find cheap products for school at the beginning of the year. There’s websites like Amazon to buy school-related items, but you’re less likely to find students who go to the same school and need the same products as you. Our solution is a website which acts as an online marketplace for students to sell school-related items to other students that go to the same school.
   
