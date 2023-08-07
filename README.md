@@ -7,7 +7,7 @@ Features:
 3. After finding the item they are looking for, a user confirms the purchase of the item they are looking for
 4. The buyer can leave a review for the seller
 5. Comments can also be left under each review that is uploaded
-Our functional requirements rely all on the user and what that user wants to do. To use it
+  Our functional requirements rely all on the user and what that user wants to do. To use it
 though, the user will need to sign up or log in with an existing UTRGV account. Once they can
 do either of these, they are on the homepage where they can see all the items available and search for them too. They can also view their user page, their own items up for sale, view pending items they have to accept/decline or their own pending items, view their order history, and log out. If they are logged out, they cannot see any of these options, but they can if they are
 logged in.
