@@ -2,6 +2,7 @@
       Students often struggle to find cheap products for school at the beginning of the year. There’s websites like Amazon to buy school-related items, but you’re less likely to find students who go to the same school and need the same products as you. Our solution is a website which acts as an online marketplace for students to sell school-related items to other students that go to the same school.
   
       There is a homepage where a user can view the list of items available to purchase. The buyer places an order, and the transaction is confirmed by the seller through the website. From there, they communicate the details of the transaction in person through email. This website is designed to allow students to sell used school-related items in good condition at a low cost.
+      
 Features:
 1. The user adds an entry to their list of items which is displayed on the homepage
 2. Users can search for a specific item
